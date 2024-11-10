@@ -89,9 +89,3 @@ The Linear Regression model provides a good fit for predicting profits based on 
 - Explore advanced regression techniques like Ridge, Lasso, or ElasticNet for improved predictions.
 - Integrate external data such as customer demographics or economic indicators for deeper insights.
 - Create a dashboard to visualize real-time profit predictions.
-
-## Contact
-
-If you have any questions or feedback, please reach out via:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
